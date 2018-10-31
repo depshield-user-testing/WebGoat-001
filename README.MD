@@ -1,4 +1,4 @@
-# Important Information [![DepShield Badge](https://depshield.sonatype.org/badges/depshield-user-testing/WebGoat-jyoung-001/depshield.svg)](https://depshield.github.io)
+# Important Information
 
 Thank you for downloading WebGoat!  This is the WebGoat Legacy version which is essentially the WebGoat 5 with a new UI. 
 
